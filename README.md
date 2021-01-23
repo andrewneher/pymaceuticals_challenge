@@ -11,6 +11,7 @@ OBSERVATIONS:
 
 3. You can see the effectiveness of Capomulin treatment on an individual mouse (b128) in the line graph as the tumor size goes down over time.
 
+final push: 1/23/2021
 
 push: 1/22/2021
 
