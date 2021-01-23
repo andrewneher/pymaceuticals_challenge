@@ -5,7 +5,7 @@ Andrew Neher MatPlotLib Homework
 
 OBSERVATIONS:
 
-1. Ten Drugs were used to treat mice with tumors, of those drugs Capomulin had to most data available.
+1. Ten Drugs were used to treat mice with tumors, of those drugs Capomulin had the most data available.
 
 2. Capomulin and Ramicane seemed to be the most effective in reducing tumor size on the mice.
 
